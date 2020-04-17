@@ -6,4 +6,5 @@ The procedure as follows:
 ![alt text](https://github.com/siddhaling/Python-Code-to-Dichotomous-Optimization/blob/master/procedure2.jpg)
 
 The output example is
+
 ![alt text](https://github.com/siddhaling/Python-Code-to-Dichotomous-Optimization/blob/master/outputEx.jpg)
